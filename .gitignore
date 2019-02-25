@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/vcs.xml
+.idea/workspace.xml
+target/book/ch04/
+target/book/ch05/
+target/generated/
