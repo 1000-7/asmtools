@@ -4,3 +4,6 @@
 target/book/ch04/
 target/book/ch05/
 target/generated/
+.DS_Store
+src/.DS_Store
+target/org/openjdk/.DS_Store
